@@ -1,0 +1,1 @@
+To get this working, you will need to download the actual tree-sitter-rust repo and place it in the root of this dir. The build.rs file will compile it.
